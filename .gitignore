@@ -1,3 +1,5 @@
-/data
+/Emoji/data
+/Animation/data
 .ipynb_checkpoints
-*.pt
+/Emoji/*.pt
+/Animation/*.pt
