@@ -96,6 +96,7 @@ Once the training is completed the result is stored the main folder as ``D_chk_1
 
 ###### Final Generated Images
 ![Screenshot](./assets/output_17_5.png "anima output")
+<br/>
 ![Screenshot](./assets/output_22_1.png "emoji output")
 
 
