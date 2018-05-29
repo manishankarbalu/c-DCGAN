@@ -92,11 +92,11 @@ Once the training is completed the result is stored the main folder as ``D_chk_1
 ![Screenshot](./assets/sampled.png "Loss image")
 
 ###### Training through Epochs
-![Screenshot](./assets/train_100.png "epochs")
+![Screenshot](./assets/train_100.gif "epochs")
 
 ###### Final Generated Images
-![Screenshot](./assets/outpu_17_5.png "anima output")
-![Screenshot](./assets/outpu_22_1.png "emoji output")
+![Screenshot](./assets/output_17_5.png "anima output")
+![Screenshot](./assets/output_22_1.png "emoji output")
 
 
 ###### Loss
@@ -109,7 +109,7 @@ Once the training is completed the result is stored the main folder as ``D_chk_1
 - [ ] UI for input, output and to download checkpoint.
 
 ##### Credits
-
+```javascript
 @inproceedings{aneja2016modeling,
   title={Modeling Stylized Character Expressions via Deep Learning},
   author={Aneja, Deepali and Colburn, Alex and Faigin, Gary and Shapiro, Linda and Mones, Barbara},
@@ -118,6 +118,6 @@ Once the training is completed the result is stored the main folder as ``D_chk_1
   year={2016},
   organization={Springer}
 }
-
+```
 
 
